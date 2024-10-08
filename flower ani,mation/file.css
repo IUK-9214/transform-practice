@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.913);
+    color: whitesmoke;
+   
+}
+.background{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.flower{
+    height: 90vh;
+    width:30vw;
+    background-color: aqua;
+
+}
